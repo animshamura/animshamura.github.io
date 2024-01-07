@@ -378,13 +378,13 @@ section .title::after{
     width: 80%;
 }
 .skills-content .right .java::before{
-    width: 90%;
+    width: 50%;
 }
 .skills-content .right .cpp::before{
     width: 90%;
 }
 .skills-content .right .cs::before{
-    width: 70%;
+    width: 85%;
 }
 .skills-content .right .python::before{
     width: 70%;
