@@ -378,10 +378,10 @@ section .title::after{
     width: 80%;
 }
 .skills-content .right .java::before{
-    width: 50%;
+    width: 90%;
 }
 .skills-content .right .cpp::before{
-    width: 90%;
+    width: 50%;
 }
 .skills-content .right .cs::before{
     width: 85%;
