@@ -222,9 +222,9 @@ section .title::after{
 }
 .about .about-content .left img{
     height: 500px;
-    width: 400px;
+    width: 500px;
     object-fit: cover;
-    border-radius: 0px;
+    border-radius: 5px;
 }
 .about .about-content .right{
     width: 55%;
